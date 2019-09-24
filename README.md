@@ -1,9 +1,9 @@
+# David Antonio Moreno - Senior Mobile Developer
 # MVVM with Dependency Injection Demo
 
 Tecnologies
 - Butter Knife
 - Dagger 2
-- FireBase
 - Fragments
 - Jetpack libraries and tools
 - MVVM Design pattern 
